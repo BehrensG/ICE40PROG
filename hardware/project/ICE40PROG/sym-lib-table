@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ICE40PROG)(type Legacy)(uri /home/grzegorz/git/ICE40PROG/hardware/lib/sch/ICE40PROG.lib)(options "")(descr ""))
+)

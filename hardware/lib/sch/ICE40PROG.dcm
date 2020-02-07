@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 744233121
+D WE-CNSW-HF SMD CommonMode Line Filter (High Frequency)
+$ENDCMP
+#
+$CMP 824011
+D TVS Diode Array WE-TVS
+$ENDCMP
+#
+$CMP 93LC56-SO8
+D 2K Microwire Compatible Serial EEPROM
+$ENDCMP
+#
+$CMP CA25C1204GLT
+D 12MHZ AUTOMOTIVE GRADE HCMOSCLOCK
+$ENDCMP
+#
+$CMP USB_B_Micro
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+$CMP USB_B_Mini
+D USB Mini Type B connector
+K connector USB mini
+F ~
+$ENDCMP
+#
+#End Doc Library
